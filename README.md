@@ -212,11 +212,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 * * *
 
-## Contact
-
-Sneha Padgaonkar — [@snehapadgaonkar](https://github.com/snehapadgaonkar)
-
-Project Link: [https://github.com/snehapadgaonkar/agentfence](https://github.com/snehapadgaonkar/agentfence)
-Branch: `arena/1f066074-agentfence`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
