@@ -194,14 +194,7 @@ This experiment is **inspired by** these frameworks. It does not claim to implem
 
 ## Contributing
 
-
-If you have a suggestion, please open an [issue](https://github.com/snehapadgaonkar/agentfence/issues) or create a pull request from the `arena/1f066074-agentfence` branch.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/Name`)
-3. Commit your Changes (`git commit -m 'Add feature'`)
-4. Push to the Branch (`git push origin feature/Name`)
-5. Open a Pull Request
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 * * *
 
@@ -211,5 +204,3 @@ If you have a suggestion, please open an [issue](https://github.com/snehapadgaon
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 * * *
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
