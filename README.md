@@ -24,13 +24,11 @@ This is a **controlled simulation**, not a claim of full OWASP or NIST framework
 
 ## Getting Started
 
-[Permalink: Getting Started](#getting-started)
 
 Run the full experiment top-to-bottom in Google Colab with no external APIs required.
 
 ### Prerequisites
 
-[Permalink: Prerequisites](#prerequisites)
 
 - Google account (for Colab)
 - Python 3 (only for local execution)
@@ -38,7 +36,6 @@ Run the full experiment top-to-bottom in Google Colab with no external APIs requ
 
 ### Installation
 
-[Permalink: Installation](#installation)
 
 ```sh
 git clone https://github.com/snehapadgaonkar/agentfence.git
@@ -47,7 +44,6 @@ cd agentfence
 
 ### Run
 
-[Permalink: Run](#run)
 
 **Google Colab (recommended — zero setup):**
 
@@ -75,7 +71,6 @@ The architecture stays identical: LLM → structured proposal → schema validat
 
 ### Test
 
-[Permalink: Test](#test)
 
 Every experiment includes assertions that verify expected security outcomes:
 
@@ -92,7 +87,6 @@ Run all cells; assertions will fail loudly if an experiment deviates from its in
 
 ## Results
 
-[Permalink: Results](#results)
 
 The notebook runs 10 experiments (A–J) that measure how the **same model proposal** produces different outcomes depending solely on authorization architecture.
 
@@ -139,7 +133,6 @@ This is the heart of the experiment: the model's output is treated as a **propos
 
 ## Built With
 
-[Permalink: Built With](#built-with)
 
 - [Python 3](https://www.python.org/)
 - [Google Colab](https://colab.research.google.com/)
@@ -153,11 +146,9 @@ This is the heart of the experiment: the model's output is treated as a **propos
 
 ## Roadmap
 
-[Permalink: Roadmap](#roadmap)
 
 ### v1.0.0 — Experiment complete
 
-[Permalink: v1.0.0 — Experiment complete](#v100--experiment-complete)
 
 - [x] Simulated customer DB and structured audit log
 - [x] Schema validation layer
@@ -173,7 +164,6 @@ This is the heart of the experiment: the model's output is treated as a **propos
 
 ### v1.1.0 — Planned
 
-[Permalink: v1.1.0 — Planned](#v110--planned)
 
 - [ ] Expanded simulated tool schemas (simulated payments, simulated credential rotation as simulated actions)
 - [ ] Multi-agent configuration experiments (differentiated permissions across agents)
@@ -187,7 +177,6 @@ This is the heart of the experiment: the model's output is treated as a **propos
 
 ## References (with brief descriptions)
 
-[Permalink: References](#references)
 
 | Source | Why it is cited |
 | --- | --- |
@@ -205,7 +194,6 @@ This experiment is **inspired by** these frameworks. It does not claim to implem
 
 ## Contributing
 
-[Permalink: Contributing](#contributing)
 
 If you have a suggestion, please open an [issue](https://github.com/snehapadgaonkar/agentfence/issues) or create a pull request from the `arena/1f066074-agentfence` branch.
 
@@ -219,7 +207,6 @@ If you have a suggestion, please open an [issue](https://github.com/snehapadgaon
 
 ## License
 
-[Permalink: License](#license)
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
